@@ -68,7 +68,7 @@ docker ps
 
 ![Realizowanie wymaganej funkcjonalności](screenshots/potwierdzenie_dzialania.png)
 
-## Test działania sprawdzania poprawności działania:
+## Test sprawdzania poprawności działania:
 
 ### Zabicie procesu node'a w kontenerze:
 ```
